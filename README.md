@@ -13,11 +13,20 @@
 <h1 align="center">노인 건강 관리 플랫폼 : Silver Town </h1>
 <br>
 
-## 🥔 팀원 소개
+## 😄 팀원 소개
 |<img src="https://avatars.githubusercontent.com/u/122086362?v=4" width="150" height="150"/>|<img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/80668325.png?raw=true" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/97294927?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/77917850?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/167883838?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|:-:|
 |👑최규범<br/>[@jason-gb](https://github.com/jason-gb)|김민지<br/>[@mims0214](https://github.com/mjms0214)|김태영<br/>[@tyeong1102](https://github.com/tyeong1102)|이유진<br/>[@uzz99](https://github.com/uzz99)|조혜인<br/>[@byHyen](https://github.com/byHyen)|
 
+<br>
+
+## 👀 프로젝트 배경
+
+![프로젝트 배경](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/%EB%B0%B0%EA%B2%BD.png?raw=true)
+
+행정안전부가 발표한 '2023년 말 기준 주민등록 인구통계'에 따르면 70대 이상 인구는 631만 9천402명으로, 20대(619만 7천486명) 인구를 넘어섰습니다. <br>
+전체 인구 대비 고령 인구 비율은 2015년 13.2%, 2020년 16.4%, 2022년 18.0% 등 매년 높아지는 추세입니다. 
+유엔(UN)은 65세 이상 인구가 전체 인구에서 차지하는 비율이 7% 이상이면 고령화 사회, 14% 이상은 고령 사회, 20% 이상은 초고령 사회로 구분하고 있어, 우리나라는 내년에 노인 인구가 20%에 도달해 초고령 사회에 진입할 전망입니다.
 <br>
 
 ## ✨ 프로젝트 소개
