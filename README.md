@@ -6,7 +6,7 @@
 
 ![Silver Town](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/dddd.png?raw=true)
 
-**한화시스템 BEYOND SW캠프/ 💥TEAM 최다이김조💥**
+**한화시스템 BEYOND SW캠프 / 💥TEAM 최다이김조💥**
 </div>
 <br>
 
@@ -73,7 +73,7 @@
 
 ## 🎀 ERD 
 
-![class diagram](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/class.png?raw=true)
+![class diagram](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/class_diagram.png?raw=true)
 
 ![ERD](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/erd.png?raw=true)
 
