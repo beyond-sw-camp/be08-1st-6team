@@ -22,7 +22,7 @@
 
 ## ✨ 프로젝트 소개
 
-초고령 사회 진입 예측에 따라 **고령 인구의 통합 건강 관리 서비스의 필요**를 느끼게 되어, **Silver Town 서비스**를 제작하였습니다.<br>
+초고령 사회 진입 예측에 따라 **고령 인구의 통합 건강 관리 서비스의 필요**를 느끼게 되어, <span style="color:skyblue">**Silver Town 서비스**</span>를 제작하였습니다.<br>
 병원, 돌봄 기관, 의료기록 등 별개의 서비스를 하나로 통합하여, 사용자(당사자와 보호자)의 **건강 관리 부담을 경감하는 것을 목표**로 합니다.
 따라서 Silver Town은 다음과 같은 서비스를 제공합니다.
 
@@ -73,6 +73,8 @@
 
 ## 🎀 ERD 
 
+![class diagram](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/class.png?raw=true)
+
 ![ERD](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/erd.png?raw=true)
 
 
@@ -84,7 +86,7 @@
 
 ## 🍟팀원
 
-Team Leader : **최규범**
+Team Leader : 🐯**최규범**
 
 Member :  **김민지**  **김태영**  **이유진**
   **조혜인**
