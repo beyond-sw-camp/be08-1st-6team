@@ -82,9 +82,9 @@
 
 ## 🎀 ERD 
 
-![class diagram](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/class_diagram.png?raw=true)
+![class diagram](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.png?raw=true)
 
-![ERD](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/erd.png?raw=true)
+![ERD](https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/Silver%20Town.png?raw=true)
 
 
 ## 👨‍💻 SQL 실행 결과 
