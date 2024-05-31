@@ -5,12 +5,14 @@ from datetime import datetime, timedelta    # cf) timedelta(날짜 더하기 빼
 start_date_range = datetime(2020, 1, 1)#시작 날짜(변경해도 됨)
 end_date_range = datetime(2024, 5, 31)#끝나는 날짜(변경ok)
 
+
+
 def random_date_func(start, end):#서비스 신청 날짜 랜덤 데이터 생성 func
 
     del_date=(end - start).days#날짜 차이(무작위 날짜 생성 때문)
     rand_date=random.randint(0,del_date)#0일 ~ 날짜 차이만큼의 랜덤데이터
     rd = start+timedelta(rand_date)
-    # 시작날짜(원 데이터)에 랜덤으로 돌린 날짜데이터 더하면 새로운 시작 날짜 데이터가 나오겠지?
+    # 시작날짜(원 데이터)에 랜덤으로 돌린 날짜데이터 더하면 새로운 시작 날짜 데이터 생성 됨
 
     return rd
 
@@ -18,8 +20,8 @@ dummy = []#랜덤으로 생성한 데이터 담을 배열
 
 for cnt in range(1,2001): #총 2000개
     service_no=cnt
-    user_no = cnt#1~2000
-    inst_no = 2001-cnt#2000~1
+    user_no = random.choice(list(range(1, 16)))#회원 1~15까지
+    inst_no = random.choice(list(range(1, 24)))#기관 1~23까지
 
     start_date=random_date_func(start_date_range, end_date_range)
 
@@ -40,9 +42,9 @@ for cnt in range(1,2001): #총 2000개
 
     dummy.append((service_no,user_no, inst_no, start_date, end_date, care_service, alert_service, check_service))
 
-#service_no 정렬
-dummy.sort(key=lambda x:service_no)#그냥 dummy.sort() 써도 됨
+dummy.sort(key=lambda x:(x[0],x[1],x[2]))
 
+#print(len(dummy)-len(set((user_no,inst_no))))
 #print(*dummy[:20],sep="\n") #생성 확인
 
 
