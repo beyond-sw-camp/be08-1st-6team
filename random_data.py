@@ -40,8 +40,8 @@ for cnt in range(1,2001): #총 2000개
 
     dummy.append((service_no,user_no, inst_no, start_date, end_date, care_service, alert_service, check_service))
 
-#user_no기준으로 정렬
-dummy.sort(key=lambda x:user_no)#그냥 dummy.sort() 써도 됨
+#service_no 정렬
+dummy.sort(key=lambda x:service_no)#그냥 dummy.sort() 써도 됨
 
 #print(*dummy[:20],sep="\n") #생성 확인
 
