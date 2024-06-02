@@ -250,6 +250,7 @@ LEFT join medicine medi on medi.medi_no=pr.medi_no;-- 처방기록+의약품
 
 ```
 
+<br>
 
 ## 👨‍💻 SQL 실행 결과 
 
