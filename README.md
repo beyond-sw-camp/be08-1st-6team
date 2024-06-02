@@ -542,31 +542,29 @@ WHERE user_no IN (
     <p style="font-size: 14px;">
       <blockquote>
         <details>
-          <summary>게시물 작성</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%9E%91%EC%84%B1.png?raw=true"/><br>
+          <summary>게시물 조회</summary><br>
+            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%A1%B0%ED%9A%8C.png?raw=true"/><br>
         </details>
       </blockquote>
       <br>
       <blockquote>
         <details>
-          <summary>게시물 수정</summary>
-          <div>
-            <p style="font-size: 14px;">
-            <li>전) <br>
-              <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%88%98%EC%A0%95%20%EC%A0%84.png?raw=true"/> <br>
-            </li>
-            <li>후) <br>
-              <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%88%98%EC%A0%95%20%ED%9B%84.png?raw=true"/> <br>
-            </li>
-          </p>
-          </div>
+          <summary>게시물 수정</summary> <br>
+            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%88%98%EC%A0%95.png?raw=true"><br>
         </details>
       </blockquote>
       <br>
       <blockquote>
         <details>
           <summary>게시물 좋아요</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%A2%8B%EC%95%84%EC%9A%94%20%ED%9B%84.png?raw=true"/><br>
+            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%A2%8B%EC%95%84%EC%9A%94.png?raw=true"/><br>
+        </details>
+      </blockquote>
+      <br>
+      <blockquote>
+        <details>
+          <summary>게시물 삭제</summary><br>
+            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%82%AD%EC%A0%9Cpng.png?raw=true"/><br>
         </details>
       </blockquote>
     </p>
@@ -590,21 +588,62 @@ WHERE user_no IN (
       <br>
       <blockquote>
         <details>
-          <summary>댓글 좋아요</summary>
+          <summary>댓글 좋아요</summary><br>
+            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94.png?raw=true"/><br>
+        </details>
+      </blockquote>
+      <br>
+      <blockquote>
+        <details>
+          <summary>댓글 삭제</summary><br>
+            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%82%AD%EC%A0%9C.png?raw=true"/><br>
+        </details>
+      </blockquote>
+    </p>
+ </figure>
+</div>
+</details>
+
+<br>
+
+<details>
+<summary>인덱스 사용</summary>
+<div>
+<figure align="left"> 
+    <p style="font-size: 14px;">
+      <blockquote>
+        <details>
+          <summary>인덱스 생성</summary><br>
+            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%83%9D%EC%84%B1.PNG?raw=true"/><br>
+        </details>
+      </blockquote>
+      <br>
+      <blockquote>
+        <details>
+          <summary>인덱스 적용</summary>
           <div>
             <p style="font-size: 14px;">
             <li>전) <br>
-              <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94%20%EC%A0%84.png?raw=true"/> <br>
+              <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%EC%A0%84.PNG?raw=true"/> <br>
             </li>
             <li>후) <br>
-              <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94%20%ED%9B%84.png?raw=true"/> <br>
+              <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%ED%9B%84.PNG?raw=true"/> <br>
             </li>
           </p>
           </div>
         </details>
       </blockquote>
+      <br>
+        <blockquote>
+        <details>
+          <summary>인덱스 적용 확인</summary><br>
+          <br>
+            <img src ="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%ED%99%95%EC%9D%B8.PNG?raw=true"/><br>
+        </details>
+      </blockquote>
+      <br>
     </p>
- </figure>
+</figure>
 </div>
 </details>
 
@@ -615,11 +654,16 @@ WHERE user_no IN (
 ## 🍟팀 회고록
 
 🐹**김민지**
+> 내용
 
 🐐**김태영**
+> 내용
   
 🐰**이유진**
+> 내용
 
 🐢**조혜인**
+> 내용
 
 🐻**최규범**
+> 내용
