@@ -254,14 +254,14 @@ LEFT join medicine medi on medi.medi_no=pr.medi_no;-- 처방기록+의약품
 
 ## 👨‍💻 SQL 실행 결과 
 
+
 <details>
 <summary>서비스 신청 내역 수정</summary>
 <div>
   <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>서비스 종료 일자(end_date) 수정</summary>
+        <strong>1. 서비스 종료 일자(end_date) 수정</strong>
           <div>
             <p style="font-size: 14px;">
             <li>전) <br>
@@ -272,7 +272,6 @@ LEFT join medicine medi on medi.medi_no=pr.medi_no;-- 처방기록+의약품
             </li>
           </p>
           </div>
-        </details>
       </blockquote>
     </p>
   </figure>
@@ -281,14 +280,14 @@ LEFT join medicine medi on medi.medi_no=pr.medi_no;-- 처방기록+의약품
 
 <br>
 
+
 <details>
 <summary>서비스 변경</summary>
 <div>
   <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>제공 서비스 변경(’Y’→’N’)</summary>
+        <strong>1. 제공 서비스 변경(’Y’→’N’)</strong>
           <div>
             <p style="font-size: 14px;">
             <li>전) <br>
@@ -299,7 +298,6 @@ LEFT join medicine medi on medi.medi_no=pr.medi_no;-- 처방기록+의약품
             </li>
           </p>
           </div>
-        </details>
       </blockquote>
     </p>
   </figure>
@@ -394,17 +392,13 @@ WHERE user_no IN (
 <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>처방 정보 조회 및 추가</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%A7%84%EB%A3%8C,%20%EC%B2%98%EB%B0%A9/%EC%B2%98%EB%B0%A9%20%EA%B8%B0%EB%A1%9D%20INSERT.png?raw=true"/><br>
-        </details>
+        <strong>1. 처방 정보 조회 및 추가</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%A7%84%EB%A3%8C,%20%EC%B2%98%EB%B0%A9/%EC%B2%98%EB%B0%A9%20%EA%B8%B0%EB%A1%9D%20INSERT.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>처방 정보 수정</summary><br>
-            <img src ="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%A7%84%EB%A3%8C,%20%EC%B2%98%EB%B0%A9/%EC%B2%98%EB%B0%A9%20%EA%B8%B0%EB%A1%9D%20UPDATE.png?raw=true"/><br>
-        </details>
+        <strong>2. 처방 정보 수정</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%A7%84%EB%A3%8C,%20%EC%B2%98%EB%B0%A9/%EC%B2%98%EB%B0%A9%20%EA%B8%B0%EB%A1%9D%20UPDATE.png?raw=true"/><br>
       </blockquote>
     </p>
  </figure>
@@ -419,31 +413,23 @@ WHERE user_no IN (
 <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>의약품 조회</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20SELECT.png?raw=true"/><br>
-        </details>
+        <strong>1. 의약품 조회</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20SELECT.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>의약품 추가</summary><br>
-            <img src ="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20INSERT.png?raw=true"/><br>
-        </details>
+        <strong>2. 의약품 추가</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20INSERT.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>의약품 수정</summary><br>
-            <img src ="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20UPDATE.png?raw=true"/><br>
-        </details>
+        <strong>3. 의약품 수정</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20UPDATE.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>의약품 삭제</summary><br>
-            <img src ="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20DELETE.png?raw=true"/><br>
-        </details>
+        <strong>4. 의약품 삭제</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%98%EC%95%BD%ED%92%88/%EC%9D%98%EC%95%BD%ED%92%88%20DELETE.png?raw=true"/><br>
       </blockquote>
     </p>
  </figure>
@@ -465,14 +451,14 @@ WHERE user_no IN (
 
 <br>
 
+
 <details>
 <summary>체크 리스트</summary>
 <div>
   <figure align="left"> 
       <p style="font-size: 14px;">
         <blockquote>
-          <details>
-            <summary>체크 리스트 수정</summary>
+          <strong>체크 리스트 수정</strong>
             <div>
               <p style="font-size: 14px;">
               <li>전) <br>
@@ -483,7 +469,6 @@ WHERE user_no IN (
               </li>
             </p>
             </div>
-          </details>
         </blockquote>
       </p>
   </figure>
@@ -498,10 +483,9 @@ WHERE user_no IN (
   <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>기관 정보 추가</summary>
-          <div>
-            <p style="font-size: 14px;">
+        <strong>1. 기관 정보 추가</strong>
+        <div>
+          <p style="font-size: 14px;">
             <li>전) <br>
               <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B8%B0%EA%B4%80/%EA%B8%B0%EA%B4%80%20%EC%A0%95%EB%B3%B4%20%EC%B6%94%EA%B0%80%20%EC%A0%84.png?raw=true"/> <br>
             </li>
@@ -509,15 +493,13 @@ WHERE user_no IN (
               <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B8%B0%EA%B4%80/%EA%B8%B0%EA%B4%80%20%EC%A0%95%EB%B3%B4%20%EC%B6%94%EA%B0%80%20%ED%9B%84.png?raw=true"/> <br>
             </li>
           </p>
-          </div>
-        </details>
+        </div>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>기관 정보 수정</summary>
-          <div>
-            <p style="font-size: 14px;">
+        <strong>2. 기관 정보 수정</strong>
+        <div>
+          <p style="font-size: 14px;">
             <li>전) <br>
               <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B8%B0%EA%B4%80/%EA%B8%B0%EA%B4%80%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95%20%EC%A0%84.png?raw=true"/> <br>
             </li>
@@ -525,8 +507,7 @@ WHERE user_no IN (
               <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B8%B0%EA%B4%80/%EA%B8%B0%EA%B4%80%20%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A0%95%20%ED%9B%84.png?raw=true"/> <br>
             </li>
           </p>
-          </div>
-        </details>
+        </div>
       </blockquote>
     </p>
  </figure>
@@ -541,31 +522,23 @@ WHERE user_no IN (
 <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>게시물 조회</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%A1%B0%ED%9A%8C.png?raw=true"/><br>
-        </details>
+        <strong>1. 게시물 조회</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%A1%B0%ED%9A%8C.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>게시물 수정</summary> <br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%88%98%EC%A0%95.png?raw=true"><br>
-        </details>
+        <strong>2. 게시물 수정</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%88%98%EC%A0%95.png?raw=true"><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>게시물 좋아요</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%A2%8B%EC%95%84%EC%9A%94.png?raw=true"/><br>
-        </details>
+        <strong>3. 게시물 좋아요</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%A2%8B%EC%95%84%EC%9A%94.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>게시물 삭제</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%82%AD%EC%A0%9Cpng.png?raw=true"/><br>
-        </details>
+        <strong>4. 게시물 삭제</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EA%B2%8C%EC%8B%9C%EB%AC%BC%20%EC%82%AD%EC%A0%9Cpng.png?raw=true"/><br>
       </blockquote>
     </p>
  </figure>
@@ -580,24 +553,18 @@ WHERE user_no IN (
 <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>댓글 조회</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%A1%B0%ED%9A%8C.png?raw=true"/><br>
-        </details>
+        <strong>1. 댓글 조회</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%A1%B0%ED%9A%8C.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>댓글 좋아요</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94.png?raw=true"/><br>
-        </details>
+        <strong>2. 댓글 좋아요</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%A2%8B%EC%95%84%EC%9A%94.png?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>댓글 삭제</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%82%AD%EC%A0%9C.png?raw=true"/><br>
-        </details>
+        <strong>3. 댓글 삭제</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EA%B2%8C%EC%8B%9C%EB%AC%BC/%EB%8C%93%EA%B8%80%20%EC%82%AD%EC%A0%9C.png?raw=true"/><br>
       </blockquote>
     </p>
  </figure>
@@ -606,23 +573,21 @@ WHERE user_no IN (
 
 <br>
 
+
 <details>
 <summary>인덱스 사용</summary>
 <div>
 <figure align="left"> 
     <p style="font-size: 14px;">
       <blockquote>
-        <details>
-          <summary>인덱스 생성</summary><br>
-            <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%83%9D%EC%84%B1.PNG?raw=true"/><br>
-        </details>
+        <strong>1. 인덱스 생성</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%83%9D%EC%84%B1.PNG?raw=true"/><br>
       </blockquote>
       <br>
       <blockquote>
-        <details>
-          <summary>인덱스 적용</summary>
-          <div>
-            <p style="font-size: 14px;">
+        <strong>2. 인덱스 적용</strong>
+        <div>
+          <p style="font-size: 14px;">
             <li>전) <br>
               <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%EC%A0%84.PNG?raw=true"/> <br>
             </li>
@@ -630,24 +595,18 @@ WHERE user_no IN (
               <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%ED%9B%84.PNG?raw=true"/> <br>
             </li>
           </p>
-          </div>
-        </details>
+        </div>
       </blockquote>
       <br>
-        <blockquote>
-        <details>
-          <summary>인덱스 적용 확인</summary><br>
-          <br>
-            <img src ="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%ED%99%95%EC%9D%B8.PNG?raw=true"/><br>
-        </details>
+      <blockquote>
+        <strong>3. 인덱스 적용 확인</strong><br>
+        <img src="https://github.com/beyond-sw-camp/be08-1st-CDLKJ-SilverTown/blob/main/img/QueryImg/%EC%9D%B8%EB%8D%B1%EC%8A%A4/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%81%EC%9A%A9%20%ED%99%95%EC%9D%B8.PNG?raw=true"/><br>
       </blockquote>
       <br>
     </p>
 </figure>
 </div>
 </details>
-
-
 
 <br>
 
